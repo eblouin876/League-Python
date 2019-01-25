@@ -60,5 +60,3 @@ class LeagueDatabase(object):
                 print('Could not add ' + key + ' to database')
         print('Database updated')
 
-
-test = LeagueDatabase()

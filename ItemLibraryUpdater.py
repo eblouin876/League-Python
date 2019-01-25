@@ -34,4 +34,3 @@ class ItemLibraryUpdater(object):
         print(raw_table)
         for item in raw_table:
             pass
-items = ItemLibraryUpdater()

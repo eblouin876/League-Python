@@ -80,7 +80,3 @@ class CharacterList(object):
         print(character.capitalize() + "\nStats:" + str(stats) + "\nSkill Build: " + str(build) + "\nWith Runes: " + str(runes))
         return build
 
-
-test = CharacterList()
-
-test.choose_character_to_play('aatrox')
